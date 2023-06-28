@@ -91,7 +91,7 @@ Se le creo un CRUD para cada tabla, en estos CRUDS se les permite:
 Tengo un error con las credenciales, por el motivo de que al crear la tabla utilicé lo siguiente:"
 Ingreso: mysql -u root" por el motivo de que era la única manera que me dejaba ingresar
 
-
+Se le insertó la parte front-end pero no esta en funcionamiento
 
 
 
